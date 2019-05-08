@@ -56,6 +56,8 @@ Milo Yip 的个人网站，有各种游戏/软件开发的文章
 
 # rednaxelafx.iteye.com/blog/492667
 《虚拟机随谈（1）：解释器，树遍历解释器，基于栈与基于寄存器，大杂烩》，RednaxelaFx
+
+# highorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers
 ```
 
 > 软件开发相关
