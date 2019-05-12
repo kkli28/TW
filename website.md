@@ -90,4 +90,16 @@ RednaxelaFX 的豆瓣书单，编译器相关
 ```
 # bellard.org/jslinux/
 在浏览器中运行操作系统
+
+# http://oskarstalberg.com/game/planet/planet.html
+在线生成3D卡通行星
+
+# http://www.oskarstalberg.com/game/house/Index.html
+在线3D城堡编辑器
+
+# http://oskarstalberg.com/game/HovertankGame/index.html
+在线炫光射击游戏
+
+# https://oskarstalberg.tumblr.com/
+上方几个玩意儿的博主
 ```

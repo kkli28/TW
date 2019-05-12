@@ -16,3 +16,5 @@ PolyDust: 简单的几何建模软件，IOS上
 Hexel 2: 图元风格美术创作利器
 Twine: 开源剧情编辑工具
 axis game factory: 好像有点意思
+Pixel Art Studio：像素画软件
+Polygonal Planet：在线一键生成小行星（3D卡通风）
