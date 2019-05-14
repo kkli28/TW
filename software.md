@@ -18,3 +18,5 @@ Twine: 开源剧情编辑工具
 axis game factory: 好像有点意思
 Pixel Art Studio：像素画软件
 Polygonal Planet：在线一键生成小行星（3D卡通风）
+Krita：开源绘画软件，看起来像 PS
+InkScape: 免费绘图软件

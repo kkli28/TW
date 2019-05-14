@@ -58,6 +58,23 @@ Milo Yip 的个人网站，有各种游戏/软件开发的文章
 《虚拟机随谈（1）：解释器，树遍历解释器，基于栈与基于寄存器，大杂烩》，RednaxelaFx
 
 # highorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers
+
+
+# https://www.gdquest.com/about/
+# https://www.gdquest.com/tutorial/
+GDQuest，教你称为一名游戏设计师/开发者
+
+# https://gameanalytics.com/blog/how-to-make-your-game-ui-shine-and-increase-conversions.html
+How To Make Your Game UI Shine & Increase Conversions
+
+# https://gameanalytics.com/
+用于收集游戏数据的工具，像Ajust？
+
+# https://www.bilibili.com/video/av23908142
+【GDC讲座】如何为你的游戏选择一个主题（How to choose a theme for you game）
+
+# https://indienova.com/column/24
+INDIENOVA: Tools for Game Design，游戏设计工具/方式
 ```
 
 > 软件开发相关
@@ -83,6 +100,7 @@ RednaxelaFX 的豆瓣书单，编译器相关
 
 # zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/others/
 《Google开源项目风格指南》
+
 ```
 
 > 有意思的玩意儿
@@ -102,4 +120,22 @@ RednaxelaFX 的豆瓣书单，编译器相关
 
 # https://oskarstalberg.tumblr.com/
 上方几个玩意儿的博主
+```
+
+> 美术相关
+
+```
+# https://indienova.com/indie-game-development/2d-game-art-tutorials/
+indienova 《2D美术通用教程推荐》
+
+# xxx
+《Riot Games 出了一套游戏美术教程 #x：XXXX》
+
+# https://www.youtube.com/watch?v=8_KBjd0iaCU
+2D Animation at Klei Entertainment
+
+# http://www.standalone3d.com/
+2D/3D美术集
+
+
 ```
